@@ -1,2 +1,2 @@
-# staking-reward
+# Staking Reward Smart Contract 
 Yield Farming (Staking Reward)
